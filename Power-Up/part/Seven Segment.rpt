@@ -1,0 +1,66 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : Seven Segment
+Receiving System Product I.D.: 
+File Name                    : Seven Segment
+Sending System               : unknown
+Preprocessor Version         : unknown
+File Creation Date           : 20210509.210940
+Model Creation Date          : 
+Units                        : MM
+Model Space Scale            : 1
+Author                       : unknown
+Organization                 : unknown
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:               3
+  Highest number of significant digits:                     14
+  Average number of significant digits:                8.45038
+  Maximum distance to origin:                          12.7134
+  Minimum distance to origin:                          10.6851
+  Effective number of significant digits:               12.938
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+126  Rational B-spline curve                      16346     16346
+128  Rational B-spline surface                     5814      5814
+186  Manifold Solid B-rep Object                    106       106
+314  Color definition                                14        14
+406  Property                                       106       106
+502  Vertex list                                    106       106
+504  Edge entity                                    106       106
+508  Loop entity                                   5979      5979
+510  Face entity                                   5814      5814
+514  Shell entity                                   106       106
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       105
+Surface feature(s)                     1590
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Sunday, May 09, 2021 21:56:06
+Finish time: Sunday, May 09, 2021 21:57:39
+Processing time: 0 days, 00 hours, 01 mins, 33 secs
