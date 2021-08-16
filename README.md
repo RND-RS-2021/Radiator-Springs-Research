@@ -6,5 +6,5 @@ Contributor:
 Husain Asyari,
 Maruf Wahyu P*
 <p align="center">
-  <img width="460" height="300" src="pp.jfif">
+  <img width="460" height="460" src="pp.jfif">
 </p>
