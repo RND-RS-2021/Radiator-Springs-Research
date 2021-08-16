@@ -5,4 +5,6 @@ Contributor:
 *Nur Imam P,
 Husain Asyari,
 Maruf Wahyu P*
-![RnD-SPD-Logo](pp.jfif)
+<p align="center">
+  <img width="460" height="300" src="pp.jfif">
+</p>
